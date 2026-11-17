@@ -12,7 +12,20 @@ Created the public profile README, led by the owner's VisiTank Windows desktop w
 
 VisiTank is described at the feature/engineering level explicitly requested by its owner. Its source remains private. The model-driven statement refers to domain models feeding editing, geometry, persistence and reports; do not reinterpret it as a code-generation pipeline, standards certification, or a claim of engineering acceptance authority.
 
-Selected pins are taxinordlille, hisebi-shubham and smca-bhog-pass. Pinning is an account setting, separate from this Git commit; record its observed completion in a follow-up after the profile UI is checked. The public sigma-visitank-dashboard is a prototype and must never be presented as the private Windows product.
+Exactly three repositories are now pinned: hisebi-shubham, smca-bhog-pass and taxinordlille, in that displayed order. The selection shows relational business workflows, transactional QR-pass handling, and a service/CMS application. The account setting was saved in the owner's signed-in Opera session and verified on the signed-out public profile. The public sigma-visitank-dashboard is a prototype and must never be presented as the private Windows product.
+
+## Published account presentation
+
+The profile README was published in commit `e8fe5d4a9456735e58db2efabfdc69df1056cdb5` and visibly renders on https://github.com/surelyshubham. This follow-up records completed account controls; it changes no README content.
+
+- Bio: `Enterprise desktop and web software | VisiTank | Model-driven software development | C#/.NET/WPF · TypeScript/React/Next.js`
+- Website: https://www.surelyshubham.com
+- Social link: https://www.linkedin.com/in/surelyshubham/
+- Email remains the owner-confirmed `surelyshubham@gmail.com` in the README. No email privacy or contribution-visibility settings were changed.
+
+The owner was concerned that private work might look like inactivity and asked to emphasize VisiTank and their model-driven software development skills. Their initial abbreviation was MDDS; they then confirmed the full phrase. The wording uses that phrase and source-supported engineering capabilities rather than an unsupported ranking, certification, experience metric or claim of sole authorship. Anonymized private contributions were already visible publicly.
+
+Verification on 2026-11-17: the signed-out profile showed the exact bio, website, LinkedIn link, rendered VisiTank section, and the Pinned section with exactly the three repositories above. Public-page screenshots were saved with the task's local handoff. All six repositories' documentation and presentation metadata were read back after publication; these updates do not expose private source or change existing repository visibility.
 
 ## Scope and verification
 
